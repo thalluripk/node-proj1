@@ -3,7 +3,7 @@ import x from "./message.js"
 
 let sayHello = ()=>{
 
-    console.log(`Hello ${x.name}!!`)
+    console.log(`Hello ${x.name}!! How are you?`)
 
     
 }
